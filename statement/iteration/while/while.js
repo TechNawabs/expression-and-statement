@@ -1,0 +1,4 @@
+// while
+while (condition) {
+    
+}
